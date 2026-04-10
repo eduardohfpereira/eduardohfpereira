@@ -26,6 +26,4 @@
 
 ## 📊 Estatísticas
 
-![Eduardo's GitHub Stats](https://github-readme-stats-eight-iota-37.vercel.app/api?username=eduardohfpereira&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats-eight-iota-37.vercel.app/api/top-langs/?username=eduardohfpereira&layout=compact&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eduardohfpereira&theme=dark&hide_border=true)](https://git.io/streak-stats)
