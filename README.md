@@ -26,6 +26,6 @@
 
 ## 📊 Estatísticas
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardohfpereira&show_icons=true&theme=dark&hide_border=true)
+![Eduardo's GitHub Stats](https://github-readme-stats-eight-iota-37.vercel.app/api?username=eduardohfpereira&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohfpereira&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-iota-37.vercel.app/api/top-langs/?username=eduardohfpereira&layout=compact&theme=dark&hide_border=true)
