@@ -21,8 +21,11 @@
 |--------|-----------|------------|
 | [Gerenciador de Tarefas](https://github.com/eduardohfpereira/gerenciador-tarefas) | Aplicação de linha de comando para gerenciar tarefas | Python |
 | [Calculadora](https://github.com/eduardohfpereira/calculadora) | Aplicação de linha de comando para operações matemáticas | Python |
+
 ---
 
 ## 📊 Estatísticas
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardohfpereira&show_icons=true&theme=dark)
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardohfpereira&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohfpereira&layout=compact&theme=dark&hide_border=true)
