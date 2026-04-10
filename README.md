@@ -20,7 +20,7 @@
 | Projeto | Descrição | Tecnologia |
 |--------|-----------|------------|
 | [Gerenciador de Tarefas](https://github.com/eduardohfpereira/gerenciador-tarefas) | Aplicação de linha de comando para gerenciar tarefas | Python |
-
+| [Calculadora](https://github.com/eduardohfpereira/calculadora) | Aplicação de linha de comando para operações matemáticas | Python |
 ---
 
 ## 📊 Estatísticas
