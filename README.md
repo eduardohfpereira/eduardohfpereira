@@ -1,16 +1,17 @@
 <div align="center">
 
 <a href="https://github.com/eduardohfpereira">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=190&section=header&text=Eduardo%20H.%20F.%20Pereira&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Junior%20Full-Stack%20Software%20Developer&descAlignY=61&descSize=18" alt="Eduardo H. F. Pereira profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:172554,100:22C55E&height=200&section=header&text=Eduardo%20H.%20F.%20Pereira&fontColor=F8FAFC&fontSize=42&fontAlignY=37&desc=Junior%20Full-Stack%20Software%20Developer&descAlignY=61&descSize=18" alt="Eduardo H. F. Pereira profile banner" />
 </a>
 
 <a href="https://github.com/eduardohfpereira">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Python+%7C+Backend+%7C+Frontend+%7C+Automation+%7C+AI;Building+useful+software+for+real-world+problems;Learning%2C+shipping+and+improving+every+day" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Python+%C2%B7+Web+Applications+%C2%B7+Automation+%C2%B7+Data+%C2%B7+AI;Building+useful+software+for+real-world+problems;Learning%2C+shipping+and+improving+every+day" alt="Typing introduction" />
 </a>
 
 <p>
-  <a href="https://github.com/eduardohfpereira"><img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-22C55E?style=for-the-badge&labelColor=0F172A" alt="Full-Stack Development" /></a>
-  <a href="https://www.linkedin.com/in/eduardo-henrique-fernandes-pereira-361739320/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22C55E" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/BUILD-Full--Stack%20Systems-22C55E?style=for-the-badge&labelColor=0B1220" alt="Building full-stack systems" />
+  <img src="https://img.shields.io/badge/CORE-Python-3776AB?style=for-the-badge&labelColor=0B1220&logo=python&logoColor=white" alt="Python core" />
+  <img src="https://img.shields.io/badge/EXPLORE-AI%20%26%20Cloud-172554?style=for-the-badge&labelColor=0B1220&logo=openai&logoColor=22C55E" alt="Exploring AI and cloud" />
 </p>
 
 </div>
@@ -21,72 +22,84 @@
 
 ## Full-Stack Focus
 
-I build complete web solutions — from relational data models and APIs to responsive interfaces, dashboards and administrative workflows.
+I design and build complete web solutions — connecting data, business logic and user experience in one coherent product.
 
-- Backend services and REST APIs
-- Frontend interfaces with HTML, CSS, JavaScript and Jinja
-- Internal web applications and business systems
-- Data processing, automation and document workflows
+- Responsive interfaces and dashboards
+- Backend services, APIs and integrations
+- Relational data models and processing
+- Automation for documents and business workflows
 
 </td>
 <td width="50%" valign="top">
 
-## Engineering Mindset
+## How I Work
 
-I am a Junior Software Developer working with real-world software problems and continuously growing toward more scalable systems.
+I turn manual or fragmented processes into practical software that is easier to use, maintain and evolve.
 
-- Practical, maintainable solutions
-- Clear boundaries between UI, services and data
-- Automation that reduces repetitive work
-- Curiosity for cloud architecture and AI
+- Start with the real workflow
+- Keep UI, services and data understandable
+- Automate repetitive work
+- Learn toward scalable architecture
 
 </td>
 </tr>
 </table>
 
-## What I Build
+## The Work, Across Layers
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-| Layer | Practical Focus |
-| :--- | :--- |
-| **Frontend** | Responsive interfaces, dashboards, administrative screens and Jinja-based views |
-| **Backend** | Flask, FastAPI, REST APIs, business logic and service integrations |
-| **Data** | SQL, relational modeling, SQLite, PostgreSQL, Oracle and data transformation |
-| **Automation** | Excel, documents, PDF/DOCX workflows, Microsoft 365 and external APIs |
-| **AI** | LLM applications, AI Agents and intelligent workflow experiments |
+### INTERFACE
 
-</div>
+Responsive screens, dashboards, administrative views and Jinja-based experiences designed around the people using them.
+
+</td>
+<td width="33%" valign="top">
+
+### SYSTEMS
+
+Flask and FastAPI services, REST APIs, business rules and integrations that connect the pieces behind the interface.
+
+</td>
+<td width="33%" valign="top">
+
+### INTELLIGENCE
+
+Data transformation, document workflows, LLM experiments and AI Agents that make processes more capable.
+
+</td>
+</tr>
+</table>
 
 ## Technology Stack
 
 <p align="center">
-  <strong>Languages & Web</strong><br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <strong>Web & Interface</strong><br />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja" />
+</p>
+
+<p align="center">
+  <strong>Python & Backend</strong><br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/REST%20APIs-22C55E?style=flat-square&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
 </p>
 
 <p align="center">
-  <strong>Backend, Data & Infrastructure</strong><br />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <strong>Data, Automation & AI</strong><br />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-</p>
-
-<p align="center">
-  <strong>Tools & AI</strong><br />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
 ## Public Projects
@@ -97,44 +110,37 @@ I am a Junior Software Developer working with real-world software problems and c
 
 ### Task Manager
 
-Command-line task management application focused on simple, practical workflows.
+A lightweight command-line tool for organizing tasks and practicing clear, dependable application flow.
 
-<a href="https://github.com/eduardohfpereira/gerenciador-tarefas">
-  <img src="https://img.shields.io/badge/View%20repository-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="View Task Manager repository" />
-</a>
+<p><a href="https://github.com/eduardohfpereira/gerenciador-tarefas"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Explore Task Manager project" /></a></p>
 
 </td>
 <td width="50%" valign="top">
 
 ### Calculator
 
-Command-line calculator for basic mathematical operations.
+A focused command-line utility for basic operations, input handling and straightforward user interaction.
 
-<a href="https://github.com/eduardohfpereira/calculadora">
-  <img src="https://img.shields.io/badge/View%20repository-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="View Calculator repository" />
-</a>
+<p><a href="https://github.com/eduardohfpereira/calculadora"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Explore Calculator project" /></a></p>
 
 </td>
 </tr>
 </table>
 
-## Build Signal
+## Current Orbit
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20repositories-3-22C55E?style=for-the-badge&labelColor=0F172A" alt="Three public repositories" />
-  <img src="https://img.shields.io/badge/Primary%20language-Python-3776AB?style=for-the-badge&labelColor=0F172A&logo=python&logoColor=white" alt="Python primary language" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-0F172A?style=for-the-badge&logo=github&logoColor=22C55E" alt="Full-Stack focus" />
+  <img src="https://img.shields.io/badge/01-AI%20Agents-22C55E?style=for-the-badge&labelColor=0B1220" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/02-Cloud%20Architecture-172554?style=for-the-badge&labelColor=0B1220" alt="Cloud architecture" />
+  <img src="https://img.shields.io/badge/03-Data%20Engineering-3776AB?style=for-the-badge&labelColor=0B1220" alt="Data engineering" />
+  <img src="https://img.shields.io/badge/04-Scalable%20Systems-0F172A?style=for-the-badge&labelColor=0B1220" alt="Scalable systems" />
 </p>
-
-## Currently Exploring
-
-**AI Agents** · **LLM-powered applications** · **cloud architecture** · **scalable backend systems** · **data engineering** · **advanced database design**
 
 ## Connect
 
 <p align="center">
-  <a href="mailto:eduardopereiraaaa08@gmail.com"><img src="https://img.shields.io/badge/Email-eduardopereiraaaa08@gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=22C55E" alt="Email Eduardo" /></a>
-  <a href="https://www.linkedin.com/in/eduardo-henrique-fernandes-pereira-361739320/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=22C55E" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:eduardopereiraaaa08@gmail.com"><img src="https://img.shields.io/badge/Email-eduardopereiraaaa08@gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=22C55E" alt="Email Eduardo" /></a>
+  <a href="https://www.linkedin.com/in/eduardo-henrique-fernandes-pereira-361739320/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=22C55E" alt="Connect on LinkedIn" /></a>
 </p>
 
 <div align="center">
